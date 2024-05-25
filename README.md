@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/David-Saadia](https://github.com/David-Saadia)
 
-- 📫 How to reach me **davidsaadia3@gmail.com**
+- 📫 You can reach me at **davidsaadia3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
