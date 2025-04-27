@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-saadia&label=Profile%20views&color=0e75b6&style=flat" alt="david-saadia" /> </p>
 
-- 🔭 I’m currently working on **Venturing beyond the scope of my computer science degree.**
+- 🔭 I’m currently working on: **Venturing beyond the scope of my computer science degree.**
 
-- 🌱 I’m currently learning **Server-side development, Deep Learning, Front-end with React and Unreal Engine 5.**
+- 🌱 I’m currently learning: **Server-side development, Deep Learning, Front-end with React and Unreal Engine 5.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/David-Saadia](https://github.com/David-Saadia)
+- 👨‍💻 All of my projects are available at: [https://github.com/David-Saadia](https://github.com/David-Saadia)
 
-- 📫 You can reach me at **davidsaadia3@gmail.com**
+- 📫 You can reach me at: **davidsaadia3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
