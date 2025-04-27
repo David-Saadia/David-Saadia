@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Venturing beyond the scope of my computer science degree.**
 
-- 🌱 I’m currently learning **Databases & SQL, Program Engineering, Web Design and Unreal Engine 5.**
+- 🌱 I’m currently learning **Server-side development, Deep Learning, Front-end with React and Unreal Engine 5.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/David-Saadia](https://github.com/David-Saadia)
 
